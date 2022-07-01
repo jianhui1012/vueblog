@@ -60,4 +60,3 @@ public class JwtUtils {
         return expiration.before(new Date());
     }
 }
-Footer
